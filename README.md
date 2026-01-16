@@ -1,8 +1,4 @@
 # How to Build and Fine-Tune a Small Lanugage Model
-
-<b>How to Build and Fine-Tune a Small Lanugage Model:</b><br>
-<img src="SLM_cover_page.png" alt="SLM Book Cover" width="300"/>
-<br>
 <p align="center">
   <img src="SLM_cover_page.png" alt="How to Build and Fine-Tune a Small Language Model - Book Cover" width="400"/>
 </p>
