@@ -34,6 +34,41 @@
 
 ---
 
+# 🎁 Free Interactive Google Colab Notebooks
+
+Start building immediately with these **free, hands-on Google Colab notebooks**. No installation required—just click and run.
+
+## 📘 Chapter 2 – Let's Build GPT from Scratch
+
+Build a miniature GPT model from the ground up while learning:
+
+- Tokenization
+- Self-Attention
+- Transformer Blocks
+- Text Generation
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gxbN4v0lhMRZ-B-vIyXNvQN0s5nJd3pB)
+
+---
+
+## 🚀 Chapter 3 – Quick Start: Fine-Tune Your First Model
+
+Fine-tune your first language model in Google Colab in less than 30 minutes.
+
+You'll learn how to:
+
+- Load a pretrained model
+- Prepare your dataset
+- Fine-tune the model
+- Test your results
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j0VUcj7onnXh4TmqqNxLKoTWVsKIZRUO?usp=sharing)
+
+> 🎉 **Both notebooks are completely free** and run on the Google Colab Free GPU.
+
+---
+---
+
 ## 🎯 About This Book
 
 > *"You don't need billion-dollar infrastructure to build powerful AI."*
